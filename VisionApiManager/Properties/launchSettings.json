@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VisionApiManager": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\fersolano\\Documents\\Universidad\\Procesos de Ingeniería de Software\\VisionManger\\Images\" \"download (33).jpg\""
+    }
+  }
+}
